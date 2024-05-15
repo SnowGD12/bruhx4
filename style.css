@@ -18,6 +18,17 @@ body{
     justify-content: center;
 }
 
+.settings-container{
+    display: flex;
+    width: 100%;
+    height: auto;
+    background-color: rgba(59, 59, 59, 50%);
+    backdrop-filter: blur(5px);
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
 .header-container img{
     width: 60px;
     margin-right: 20px;
